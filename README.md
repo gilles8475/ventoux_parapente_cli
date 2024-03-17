@@ -1,0 +1,1 @@
+# ventoux_parapente_cli
